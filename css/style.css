@@ -1,4 +1,15 @@
 /* Project 3 Style Sheet */
+.inline-image-L {
+  float: left;
+  margin-right: 10px;
+}
+
+.inline-image-R {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: 0%;
+}
 
 .header-bg {
   background: #6D9456;
