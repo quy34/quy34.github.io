@@ -10,7 +10,7 @@ body {
 
 aside {
   background: #ffffff67;
-  font-style: italic;
+
   color: #29627e;
 }
 
@@ -64,10 +64,7 @@ aside {
 
 /* fine */
 
-h2 {
-  vertical-align: center;
-  text-align: center;
-}
+
 
 .row {
   margin: 0;
